@@ -1,4 +1,4 @@
 meg-falls
 =========
 
-Meg falls a lot.
+Please don't base my ability to write code off the contents of this project.
