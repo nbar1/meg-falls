@@ -52,7 +52,7 @@ countdown = {
 	
 	init: function(){
 		var SetTimeOutPeriod = (Math.abs(this.step) - 1) * 1000 + 990;
-		var dthen = new Date(this.target);
+		var dthen = new Date(this.target.replace(/-/g, "/"));
 		var dnow = new Date();
 		ddiff = new Date(dnow - dthen);
 		gsecs = Math.floor(ddiff.valueOf() / 1000);
