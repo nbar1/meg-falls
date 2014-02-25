@@ -23,7 +23,7 @@
 		</div>
 	</div>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-	<script src="assets/javascripts/countdown.js"></script>
+	<script src="assets/javascripts/countback.js"></script>
 	<script src="assets/javascripts/it_wasnt_scripted.js"></script>
 </body>
 </html>
